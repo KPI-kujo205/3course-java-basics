@@ -8,29 +8,6 @@ import Lab1.MatrixOperationException;
 
 
 public class MatrixOperations {
-
-    /**
-     * @link to the task
-     *       https://docs.google.com/document/d/142bHTKHvZCyG4WhowSjvenW-JGprnjcrNW4iujb-crc/edit
-     */
-
-    /*
-     * @info StudentId - КВ13879017
-     * C5 = 2
-     * C7 = 5
-     * C11 = 9
-     */
-
-    /**
-     * @link to the task
-     *       https://docs.google.com/document/d/142bHTKHvZCyG4WhowSjvenW-JGprnjcrNW4iujb-crc/edit
-     *       C = A+B
-     *       Element type - char
-     *       Знайти середнє значення елементів кожного стовпчика
-     *       матриця
-     */
-
-
     /**
      * 
      * {@param} m1 - m1 matrix sized NxN
@@ -127,7 +104,7 @@ public class MatrixOperations {
             output += " },\n";
 
         }
-        output += "}\n";
+        output += "}";
 
         System.out.println(output);
     };
