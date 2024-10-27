@@ -1,4 +1,4 @@
-# This is seconds laboratory work in Java discipline course
+# This is second laboratory work in Java discipline course
 
 
 ## Info
