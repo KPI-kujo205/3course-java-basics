@@ -22,7 +22,8 @@ public class StringBuilderOperations {
 
     /**
      * {@summary} finds a biggest polyndrom in a StringBuilder string instance,
-     * returns StringBuilder with no value if no polyndrom was found
+     * {@param} str - string which is being looked for polyndroms
+     * {@returns} StringBuilder with no value if no polyndrom was found
      */
     public static StringBuilder findBiggestPolyndrom(StringBuilder str) {
 
@@ -57,6 +58,7 @@ public class StringBuilderOperations {
 
     /**
      * {@summary} check is a word is polyndrom
+     * {@param} word - word, being tested if it's polyndrom
      */
     private static boolean isWordPolyndrom(StringBuilder word) {
         int len = word.length();
@@ -75,6 +77,7 @@ public class StringBuilderOperations {
 
     /**
      * {@summary} check if delimeter character
+     * {@param} ch - ch being tested
      */
     public static boolean isDelimeter(char ch) {
         return Character.isSpaceChar(ch) || ch == '.' || ch == ',' || ch == '!' || ch == '?'
