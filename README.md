@@ -15,3 +15,4 @@
 
 1. [Matrices](Lab1/README.md) 
 2. [Strings](Lab2/README.md) 
+3. [Comparing && sorting objects](Lab3/README.md) 
