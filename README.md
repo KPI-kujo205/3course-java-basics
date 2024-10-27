@@ -4,7 +4,7 @@
 
 - Student Name - Ivan Kuts (Іван Куц)
 - Group - IM-22
-- Last 4 numbers of a student card - 9017
+- Number of a student card - 13879017
 
 ## Requirements
 
