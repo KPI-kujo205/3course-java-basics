@@ -1,10 +1,10 @@
-package Lab1;
+package Lab1.modules;
 
 import java.util.ArrayList;
 import java.lang.StringBuilder;
 
-import Lab1.MatrixOperationException;
 
+import Lab1.modules.MatrixOperationException;
 
 
 public class MatrixOperations {

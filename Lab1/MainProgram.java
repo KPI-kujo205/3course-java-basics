@@ -1,8 +1,9 @@
 
+package Lab1;
 
 import java.util.Scanner;
 
-import Lab1.*;
+import Lab1.modules.*;
 
 public class MainProgram {
     /**
