@@ -16,3 +16,6 @@
 1. [Matrices](Lab1/README.md) 
 2. [Strings](Lab2/README.md) 
 3. [Comparing && sorting objects](Lab3/README.md) 
+4. [Classes and their relation](Lab4/README.md) 
+5. [Inheritence and polymorphism](Lab5/README.md) 
+6. [Working with collections](Lab6/README.md) 

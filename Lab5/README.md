@@ -32,5 +32,5 @@
 2. **Compile the Java program** using the `javac` command:
 
     ```bash
-    java Lab2/MainProgram.java
+    java Lab5/MainProgram.java
     ```
